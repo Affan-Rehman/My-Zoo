@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "408723249476",
+    "firebase_url": "https://myfirebaseauth-7a0ce-default-rtdb.firebaseio.com",
+    "project_id": "myfirebaseauth-7a0ce",
+    "storage_bucket": "myfirebaseauth-7a0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408723249476:android:4d24be46021515eb049f11",
+        "android_client_info": {
+          "package_name": "com.affi.animalringtone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408723249476-05cptqbk1b4abjs93ifvkvo07vd9qtrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxwcj5ITkVfW6BHekB3vvphutZJEpC24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408723249476-05cptqbk1b4abjs93ifvkvo07vd9qtrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408723249476:android:294f1813aec32679049f11",
+        "android_client_info": {
+          "package_name": "com.example.firebasewriter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408723249476-05cptqbk1b4abjs93ifvkvo07vd9qtrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxwcj5ITkVfW6BHekB3vvphutZJEpC24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408723249476-05cptqbk1b4abjs93ifvkvo07vd9qtrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

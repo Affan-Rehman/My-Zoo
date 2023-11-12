@@ -1,0 +1,20 @@
+{
+  "animals": {
+    "e1": {
+      "count": 0,
+      "image": "\"gs://myfirebaseauth-7a0ce.appspot.com/monkeys/images/bald_ukari.jpg\"",
+      "name": "\"Bald Ukari\"",
+      "selected": false,
+      "sound": "\"gs://myfirebaseauth-7a0ce.appspot.com/monkeys/audio/bald_ukari.wav\"",
+      "yt": ""
+    },
+    "e2": {
+      "count": 0,
+      "image": "\"gs://myfirebaseauth-7a0ce.appspot.com/monkeys/images/chacma_baboon.jpg\"",
+      "name": "\"Chacma Baboon\"",
+      "selected": false,
+      "sound": "\"gs://myfirebaseauth-7a0ce.appspot.com/monkeys/audio/chacma_baboon.mp3\"",
+      "yt": ""
+    }
+  }
+}
